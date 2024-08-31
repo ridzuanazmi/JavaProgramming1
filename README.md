@@ -30,3 +30,9 @@ Honestly, I am doing this as some recap and certificate
 1. Introduction to object-oriented programming
 2. Objects in a list
 3. Files and reading data
+
+## Part 5
+1. Learning object-oriented programming
+2. Removing repetitive code (overloading methods and constructors)
+3. Primitive and reference variables
+4. Objects and references
