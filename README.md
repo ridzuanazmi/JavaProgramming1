@@ -36,3 +36,6 @@ Honestly, I am doing this as some recap and certificate
 2. Removing repetitive code (overloading methods and constructors)
 3. Primitive and reference variables
 4. Objects and references
+
+## Part 6
+1. Objects on a list and a list as part of an object
