@@ -39,3 +39,12 @@ Honestly, I am doing this as some recap and certificate
 
 ## Part 6
 1. Objects on a list and a list as part of an object
+2. Separating the user interface from program logic
+3. Introduction to testing
+4. Complex programs
+
+## Part 7
+1. Programming paradigms
+2. Algorithms
+3. Larger programming exercises
+4. Conclusion
