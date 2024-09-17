@@ -47,4 +47,3 @@ Honestly, I am doing this as some recap and certificate
 1. Programming paradigms
 2. Algorithms
 3. Larger programming exercises
-4. Conclusion
